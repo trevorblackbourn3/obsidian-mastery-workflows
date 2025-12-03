@@ -235,7 +235,6 @@
 5. Press desired key combination
 6. Close settings
 
-**[🖼️ IMAGE: essential-shortcuts-visual.png]**
 
 ---
 
@@ -268,7 +267,6 @@
 - `Ctrl/Cmd + P` → Command palette vs. print (browser)
 - `Ctrl/Cmd + D` → Select word vs. daily note (if set)
 
-**[🖼️ IMAGE: editing-navigation-shortcuts.png]**
 
 ---
 
