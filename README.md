@@ -1,4 +1,4 @@
-# Obsidian Mastery - Workflow Templates
+# obsidian-mastery-workflows
 
 This repository contains ready-to-use templates for the workflows described in **Obsidian Mastery**.
 
