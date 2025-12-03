@@ -2,11 +2,11 @@
 
 This repository contains ready-to-use templates for the workflows described in **Obsidian Mastery**.
 
-## 📖 About
+##  About
 
 These templates complement the book by providing copy-paste ready structures for implementing the workflows discussed in Part 4. The book teaches the **principles and approach**, while these templates give you **ready-to-use implementations**.
 
-## 🚀 How to Use
+##  How to Use
 
 1. Browse to the chapter that matches your workflow
 2. Open the template file for that workflow
@@ -16,7 +16,7 @@ These templates complement the book by providing copy-paste ready structures for
 
 All templates are blank—just the structure with field names. Replace placeholder text with your actual content.
 
-## 📂 Chapters
+##  Chapters
 
 ### [Chapter 10 - Writer's Workflow](./Chapter%2010%20-%20Writer's%20Workflow/)
 Templates for novelists, essayists, and creative writers:
@@ -69,14 +69,14 @@ Templates for knowledge workers and business professionals:
 - Weekly review processes
 - Master dashboard with Dataview queries
 
-## 💡 Tips
+##  Tips
 
 - **Don't use all templates** - Pick what fits your workflow
 - **Customize freely** - These are starting points, not rigid requirements
 - **Start simple** - Begin with 2-3 core templates, expand as needed
 - **Iterate** - Adjust templates based on what works for you
 
-## 🔗 Get the Book
+##  Get the Book
 
 These templates are companions to **Obsidian Mastery**. The book provides:
 - Complete context for each workflow
@@ -85,11 +85,11 @@ These templates are companions to **Obsidian Mastery**. The book provides:
 - Real-world implementation examples
 - Troubleshooting and optimization tips
 
-## 📄 License
+##  License
 
 These templates are provided as companion materials to *Obsidian Mastery*. Free to use and adapt for personal use.
 
-## 🤝 Contributing
+##  Contributing
 
 Found improvements or have workflow variations to share? Pull requests welcome!
 
