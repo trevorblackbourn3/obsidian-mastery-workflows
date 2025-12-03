@@ -77,7 +77,6 @@
    - Delete `.obsidian/cache` file
    - Restart Obsidian
 
-**[🖼️ IMAGE: troubleshooting-flowchart.png]**
 
 ---
 
@@ -111,7 +110,6 @@
    - Settings → About → Check for updates
    - Install latest version
 
-**[🖼️ IMAGE: sync-issues-resolution.png]**
 
 ---
 
@@ -200,7 +198,6 @@
    - Extract to `.obsidian/plugins/[plugin-name]/`
    - Enable in Community Plugins
 
-**[🖼️ IMAGE: plugin-conflicts.png]**
 
 ---
 
@@ -365,7 +362,6 @@
    - If using Obsidian Git or backup plugin
    - Restore from backup
 
-**[🖼️ IMAGE: content-issues.png]**
 
 ---
 
@@ -400,7 +396,6 @@
    - Delete `.obsidian/cache` file
    - Restart
 
-**[🖼️ IMAGE: performance-troubleshooting.png]**
 
 ---
 
@@ -493,7 +488,6 @@
    - Close and reopen graph view
    - Or restart Obsidian
 
-**[🖼️ IMAGE: Graph view troubleshooting]**
 
 ---
 
@@ -526,7 +520,6 @@
    - Tag pane → Click relevant tag
    - See all notes with that tag
 
-**[🖼️ IMAGE: Finding lost notes]**
 
 ---
 
@@ -554,7 +547,6 @@
    - Local backup
    - Git history (if using Obsidian Git)
 
-**[🖼️ IMAGE: Attachment recovery]**
 
 ---
 
@@ -584,7 +576,6 @@
    - Local backup
    - Git history
 
-**[🖼️ IMAGE: File restoration steps]**
 
 ---
 
@@ -613,7 +604,6 @@
    - Reinstall from App Store/Play Store
    - Sign back in
 
-**[🖼️ IMAGE: Mobile sync troubleshooting]**
 
 ---
 
@@ -635,7 +625,6 @@
    - See Chapter 7 for mobile-friendly setups
    - Design manual fallback (no Dataview queries, etc.)
 
-**[🖼️ IMAGE: Mobile plugin compatibility]**
 
 ---
 
@@ -666,7 +655,6 @@
    - Edit settings directly
    - Restart Obsidian
 
-**[🖼️ IMAGE: Settings configuration]**
 
 ---
 
@@ -694,7 +682,6 @@
 4. **Restart Obsidian:**
    - Sometimes hotkeys don't register until restart
 
-**[🖼️ IMAGE: Hotkey troubleshooting]**
 
 ---
 
@@ -770,7 +757,6 @@
 
 **Copy error messages when asking for help.**
 
-**[🖼️ IMAGE: Developer tools console]**
 
 ---
 
@@ -802,7 +788,6 @@
    - Note custom settings
    - Makes troubleshooting easier
 
-**[🖼️ IMAGE: Prevention checklist]**
 
 ---
 
@@ -823,7 +808,6 @@
 
 **This solves 99% of corruption issues.**
 
-**[🖼️ IMAGE: Clean reinstall process]**
 
 ---
 
