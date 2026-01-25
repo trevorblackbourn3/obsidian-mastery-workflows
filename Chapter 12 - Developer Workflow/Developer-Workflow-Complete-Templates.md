@@ -305,13 +305,11 @@ updated:
 # Git Commit Message Template
 
 ## Format
-```
 <type>(<scope>): <subject>
 
 <body>
 
 <footer>
-```
 
 ## Types
 - **feat:** New feature
@@ -324,7 +322,6 @@ updated:
 - **chore:** Build process, dependencies, etc.
 
 ## Example
-```
 fix(auth): resolve JWT expiration edge case
 
 Users with tokens issued exactly at midnight experienced
@@ -334,7 +331,6 @@ Changed expiration calculation to use UTC consistently
 and added 5-second grace period.
 
 Fixes #142
-```
 ```
 
 ---
