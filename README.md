@@ -87,12 +87,10 @@ These templates are companions to **Obsidian Mastery**. The book provides:
 
 ##  License
 
-These templates are provided as companion materials to *Obsidian Mastery*. Free to use and adapt for personal use.
+These templates are provided as companion materials to *Obsidian Mastery*. Free to use and adapt for personal use. Here is the Link for the book!
+https://www.amazon.com/dp/B0G5NM2KWR
 
 ##  Contributing
 
 Found improvements or have workflow variations to share? Pull requests welcome!
 
----
-
-**Questions?** Open an issue or reach out via the book's community.
